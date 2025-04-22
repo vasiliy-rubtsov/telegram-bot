@@ -1,4 +1,4 @@
-package pro.sky.telegrambot;
+package ru.painter.free.telegrambot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
